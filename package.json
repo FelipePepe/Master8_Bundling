@@ -12,7 +12,7 @@
     "build:dev": "rimraf dist && webpack --config webpack.dev.js",
     "build:prod": "rimraf dist && webpack --config webpack.prod.js",
     "build:perf": "rimraf dist && webpack --config webpack.perf.js",
-    "build:gh-pages": "tsc --noEmit && rimraf dist && parcel build ./src/index.html --public-url https://pelipepe.github.io/master8.webpack/"
+    "build:gh-pages": "tsc --noEmit && rimraf dist && parcel build ./src/index.html --public-url https://Felipepepe.github.io/Master8-Webpack/"
   },
   "keywords": [],
   "author": "Felipe Pérez",
